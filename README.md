@@ -37,3 +37,4 @@ This project demonstrates an **End-to-End Hospital Emergency Room Dashboard** bu
 
 ---
 
+![Hospital Dashboard Pic](https://github.com/user-attachments/assets/db4014be-fad0-4cbb-8972-a1adbb56ccff)
